@@ -15,3 +15,7 @@
 - git branch 分支名:创建分支
 - git checkout 分支名:切换分支
 - git merge 分支名:把分支名合并到当前分支
+- git tag 标签名:创建标签
+- git tag:查询已创建的标签名
+- git show 标签名:显示该标签名
+- git tag -d 标签名:删除标签名

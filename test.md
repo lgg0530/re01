@@ -12,3 +12,6 @@
 - git commit -m "提交说明":提交
 - git log:查看提交信息
 - git reset --hard 版本 id:版本强制回退(还有 soft 和 mixed 模式)
+- git branch 分支名:创建分支
+- git checkout 分支名:切换分支
+- git merge 分支名:把分支名合并到当前分支

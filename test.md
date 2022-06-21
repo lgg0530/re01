@@ -13,3 +13,4 @@
 - git log:查看提交信息
 - git reset --hard 版本id:版本强制回退(还有soft和mixed模式)
 - 0.2
+- 0.5

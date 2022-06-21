@@ -13,5 +13,6 @@
 * git init:初始化,创建`.git`隐藏文件夹
 * git add .:添加所有文件到暂存区
 * git commit -m "提交说明":提交
+* git log:查看提交信息
 
 

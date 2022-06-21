@@ -11,5 +11,4 @@
 - git add .:添加所有文件到暂存区
 - git commit -m "提交说明":提交
 - git log:查看提交信息
-- git reset --hard 版本id:版本强制回退(还有soft和mixed模式)
-- 0.4
+- git reset --hard 版本 id:版本强制回退(还有 soft 和 mixed 模式)

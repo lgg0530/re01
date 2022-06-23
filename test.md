@@ -20,7 +20,7 @@
 - git show 标签名:显示该标签名
 - git tag -d 标签名:删除标签名
 - git remote add origin 远程地址:与远程仓库建立连接
-- git push -u origin 远程地址:把代码推送到远程地址
+- git push -u origin master:把代码推送到远程地址master
 
 **当远程分支已经存在时:**
 

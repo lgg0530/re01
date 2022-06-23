@@ -21,3 +21,8 @@
 - git tag -d 标签名:删除标签名
 - git remote add origin 远程地址:与远程仓库建立连接
 - git push -u origin 远程地址:把代码推送到远程地址
+
+**当远程分支已经存在时:**
+
+- git remote -v:查看已经存在远程分支
+- git remote -v:删除远程分支
